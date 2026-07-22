@@ -48,6 +48,7 @@ Customer Churn Prediction helps businesses **identify customers who are likely t
 * Selected the best-performing model for churn prediction.
 * Successfully predicted customers who are likely to leave the company.
 
+
 ### Conclusion
 
 In this project, I built a Customer Churn Prediction model using Machine Learning. I performed data preprocessing, exploratory data analysis, trained multiple classification models, and compared their performance. After evaluation, I selected the best-performing model to predict whether a customer is likely to leave or stay. This helps businesses take preventive actions, improve customer retention, and reduce revenue loss.
