@@ -13,16 +13,6 @@ Customer Churn Prediction helps businesses **identify customers who are likely t
 * Supports data-driven business decision-making.
 * Reduces the cost of acquiring new customers by retaining existing ones.
 
-### **Industries That Use Churn Prediction**
-
-* Telecommunications
-* Banking and Finance
-* E-commerce
-* Subscription Services (Netflix, Spotify)
-* Healthcare
-* Insurance
-* SaaS (Software as a Service)
-
 ## Libraries Used
 
 * **Pandas** – Data loading, cleaning, and manipulation.
@@ -31,13 +21,15 @@ Customer Churn Prediction helps businesses **identify customers who are likely t
 * **Seaborn** – Statistical data visualization.
 * **Scikit-learn** – Data preprocessing, model training, and evaluation.
 
-  * Train-Test Split
-  * Label Encoding
-  * Standard Scaling
-  * Classification Models
-  * Performance Metrics
+## Features
+* 1.Data Cleaning
+* 2.Data Visualization
+* 3.Feature Engineering
+* 4.Multiple ML Model Comparison
+* 5.Model Evaluation
+* 6.Customer Churn Prediction
 
-### Machine Learning Algorithms
+## Machine Learning Algorithms
 
 * Linear Regression Regression
 
@@ -48,6 +40,13 @@ Customer Churn Prediction helps businesses **identify customers who are likely t
 * F1-Score
 * Confusion Matrix
 * ROC-AUC Score
+
+## Results
+1.Performed data preprocessing and visualization.
+2.Trained multiple Machine Learning models.
+3.Compared model performance using evaluation metrics.
+4.Selected the best-performing model for churn prediction.
+5.Successfully predicted customers who are likely to leave the company.
 
 ### Conclusion
 
