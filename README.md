@@ -15,18 +15,15 @@ Customer Churn Prediction helps businesses **identify customers who are likely t
 
 ### **Industries That Use Churn Prediction**
 
-* 📱 Telecommunications
-* 🏦 Banking and Finance
-* 🛒 E-commerce
-* 📺 Subscription Services (Netflix, Spotify)
-* 🏥 Healthcare
-* ⚡ Insurance
-* ☁️ SaaS (Software as a Service)
+* Telecommunications
+* Banking and Finance
+* E-commerce
+* Subscription Services (Netflix, Spotify)
+* Healthcare
+* Insurance
+* SaaS (Software as a Service)
 
-
-If you're asking for a **"Libraries Used"** section for your **GitHub README**, here's a clean version:
-
-##  Libraries Used
+## Libraries Used
 
 * **Pandas** – Data loading, cleaning, and manipulation.
 * **NumPy** – Numerical computations and array operations.
@@ -40,7 +37,7 @@ If you're asking for a **"Libraries Used"** section for your **GitHub README**, 
   * Classification Models
   * Performance Metrics
 
-### 🔧 Machine Learning Algorithms
+### Machine Learning Algorithms
 
 * Linear Regression Regression
 
@@ -52,9 +49,7 @@ If you're asking for a **"Libraries Used"** section for your **GitHub README**, 
 * Confusion Matrix
 * ROC-AUC Score
 
-### **Conclusion**
+### Conclusion
 
-This project successfully developed a **Customer Churn Prediction** model using Machine Learning to identify customers who are likely to discontinue a service. The project covered the complete machine learning workflow, including **data preprocessing, exploratory data analysis (EDA), feature engineering, model building, evaluation, and prediction**. Multiple classification algorithms were trained and compared using evaluation metrics such as **Accuracy, Precision, Recall, F1-Score, and ROC-AUC**. The best-performing model demonstrated strong predictive performance and the ability to generalize to unseen data. By accurately identifying customers at risk of churn, this solution can help businesses implement proactive retention strategies, improve customer satisfaction, reduce revenue loss, and support data-driven decision-making.
-
-
+In this project, I built a Customer Churn Prediction model using Machine Learning. I performed data preprocessing, exploratory data analysis, trained multiple classification models, and compared their performance. After evaluation, I selected the best-performing model to predict whether a customer is likely to leave or stay. This helps businesses take preventive actions, improve customer retention, and reduce revenue loss.
 
