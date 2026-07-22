@@ -42,11 +42,11 @@ Customer Churn Prediction helps businesses **identify customers who are likely t
 * ROC-AUC Score
 
 ## Results
-1.Performed data preprocessing and visualization.
-2.Trained multiple Machine Learning models.
-3.Compared model performance using evaluation metrics.
-4.Selected the best-performing model for churn prediction.
-5.Successfully predicted customers who are likely to leave the company.
+* Performed data preprocessing and visualization.
+* Trained multiple Machine Learning models.
+* Compared model performance using evaluation metrics.
+* Selected the best-performing model for churn prediction.
+* Successfully predicted customers who are likely to leave the company.
 
 ### Conclusion
 
