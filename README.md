@@ -45,12 +45,12 @@ If you're asking for a **"Libraries Used"** section for your **GitHub README**, 
 * Linear Regression Regression
 
 ## Evaluation Metrics
-Accuracy Score
-Precision
-Recall
-F1-Score
-Confusion Matrix
-ROC-AUC Score
+* Accuracy Score
+* Precision
+* Recall
+* F1-Score
+* Confusion Matrix
+* ROC-AUC Score
 
 ### **Conclusion**
 
