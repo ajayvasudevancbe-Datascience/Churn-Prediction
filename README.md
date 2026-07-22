@@ -39,7 +39,7 @@ Customer Churn Prediction helps businesses **identify customers who are likely t
 * Recall
 * F1-Score
 * Confusion Matrix
-* ROC-AUC Score
+
 
 ## Results
 * Performed data preprocessing and visualization.
